@@ -15,7 +15,6 @@ export default function Home() {
   useScrollAndMousePosition();
   const { scrollPos } = useMousePositionStore();
 
-  // return <ParallaxComponent />;
   return (
     <div className=" flex flex-col justify-center relative h-fit bg-blue-950">
       <HeaderButton />

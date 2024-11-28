@@ -69,11 +69,10 @@ export default function Home() {
             Why should you hire me?
           </AccordionTrigger>
           <AccordionContent>
-            I’m a skilled full-stack web developer and UX engineer with over
-            four years of experience in the MERN stack. I combine technical
-            expertise with a strong understanding of user experience, ensuring
-            that the applications I build are not only functional but also
-            intuitive and user-friendly.
+            I’m a skilled full-stack web developer and UX engineer with a focus
+            on the MERN stack. I combine technical expertise with a strong
+            understanding of user experience, ensuring that the applications I
+            build are not only functional but also intuitive and user-friendly.
           </AccordionContent>
         </AccordionItem>
 
